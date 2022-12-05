@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://www.mgmt.ucl.ac.uk/sites/default/files/styles/larger__700_wide_/public/blog_photos/shutterstock_1422332762%20website.jpeg?itok=2QXCEbxY" /> </p>
+<p align="center"> <img src="https://gfycat.com/uk/perfectoddaustraliancurlew" /> </p>
 <h1 align="center">Hi 👋 I am Varun Bhargava</h1>
 <h3 align="center">A passionate Data Science and Machine Learning Learner, developing interest towards Finance!</h3>
 <img align="right" alt="Coding" width="200" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429.gif">
