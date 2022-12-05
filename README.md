@@ -1,4 +1,4 @@
-<img align="center" src="https://www.google.com/search?q=data+dots&tbm=isch&chips=q:data+dots,online_chips:visualization:bpql8kJYOhM%3D&rlz=1C1CHBD_enIN944IN944&hl=en&sa=X&ved=2ahUKEwjZyaGXp-L7AhXuynMBHfyaAIkQ4lYoB3oECAEQMg&biw=1349&bih=617#imgrc=3-Utom3KfyLhrM " /> 
+<p align="center"> <img src="https://www.google.com/search?q=data+dots&tbm=isch&chips=q:data+dots,online_chips:visualization:bpql8kJYOhM%3D&rlz=1C1CHBD_enIN944IN944&hl=en&sa=X&ved=2ahUKEwjZyaGXp-L7AhXuynMBHfyaAIkQ4lYoB3oECAEQMg&biw=1349&bih=617#imgrc=3-Utom3KfyLhrM " /> </p>
 <h1 align="center">Hi 👋 I am Varun Bhargava</h1>
 <h3 align="center">A passionate Data Science and Machine Learning Learner, developing interest towards Finance!</h3>
 <img align="right" alt="Coding" width="200" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429.gif">
