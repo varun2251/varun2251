@@ -1,4 +1,4 @@
-<p align="center"> <img src="" /> </p>
+
 <h1 align="center">Hi 👋 I am Varun Bhargava</h1>
 <h3 align="center">A passionate Data Science and Machine Learning Learner, developing interest towards Finance!</h3>
 <img align="right" alt="Coding" width="200" src="https://tenor.com/view/xero-code-code-xer0-code_xer0-code-xero-gif-24040429.gif">
